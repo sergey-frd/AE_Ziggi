@@ -1,0 +1,123 @@
+====================
+roman_1 Date: Sun Jun 26 2022 13:03:24 GMT+0300
+ getRandomInt: 9
+ getRandomInt: 5
+ getRandomInt: 10
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 1
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Ziggi\\xml\\ae_Zig_22_3_roman_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Ziggi\\xml\\ae_Zig_22_3_roman_1.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5271991052565329928_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5271991052565329924_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5271991052565329923_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5271991052565329920_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5271991052565329919_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/257716658_263576-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/264419416_141473-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/264419380_140913-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/12-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5474327503045769453_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5474327503045769452_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5474327503045769451_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5474327503045769450_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5474327503045769449_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/248211748_49488-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200119700936_77077-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200116400974_66290-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200116400261_66520-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200116200799_66992-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200116000805_66186-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200114500401_65321-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200111600999_76541-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200099000446_119700-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200092100419_6523-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200069500002_309315-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200006400329_464103-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200070200876_310203-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/20622079_1700985599935188_7933506051930583991_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200070300935_182439-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5391248906962188162_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5391248906962188161_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/-5391248906962188160_121-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/264414160_196519-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200123900195_72930-s.jpeg</pathurl>
+</Stuff>
+filePathUrl.length= 34
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5271991052565329928_121-s.jpeg
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5271991052565329924_121-s.jpeg
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5271991052565329923_121-s.jpeg
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5271991052565329920_121-s.jpeg
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5271991052565329919_121-s.jpeg
+!! Not found findItem 
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\257716658_263576-s.jpeg
+!! Not found findItem 
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\264419416_141473-s.jpeg
+!! Not found findItem 
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\264419380_140913-s.jpeg
+!! Not found findItem 
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\12-s.jpeg
+!! Not found findItem 
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5474327503045769453_121-s.jpeg
+!! Not found findItem 
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5474327503045769452_121-s.jpeg
+!! Not found findItem 
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5474327503045769451_121-s.jpeg
+!! Not found findItem 
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5474327503045769450_121-s.jpeg
+!! Not found findItem 
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5474327503045769449_121-s.jpeg
+!! Not found findItem 
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\248211748_49488-s.jpeg
+!! Not found findItem 
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200119700936_77077-s.jpeg
+!! Not found findItem 
+ i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200116400974_66290-s.jpeg
+!! Not found findItem 
+ i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200116400261_66520-s.jpeg
+!! Not found findItem 
+ i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200116200799_66992-s.jpeg
+!! Not found findItem 
+ i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200116000805_66186-s.jpeg
+!! Not found findItem 
+ i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200114500401_65321-s.jpeg
+!! Not found findItem 
+ i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200111600999_76541-s.jpeg
+!! Not found findItem 
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200099000446_119700-s.jpeg
+!! Not found findItem 
+ i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200092100419_6523-s.jpeg
+!! Not found findItem 
+ i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200069500002_309315-s.jpeg
+!! Not found findItem 
+ i= 26  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200006400329_464103-s.jpeg
+!! Not found findItem 
+ i= 27  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200070200876_310203-s.jpeg
+!! Not found findItem 
+ i= 28  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\20622079_1700985599935188_7933506051930583991_n-s.jpeg
+!! Not found findItem 
+ i= 29  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200070300935_182439-s.jpeg
+!! Not found findItem 
+ i= 30  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5391248906962188162_121-s.jpeg
+!! Not found findItem 
+ i= 31  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5391248906962188161_121-s.jpeg
+!! Not found findItem 
+ i= 32  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\-5391248906962188160_121-s.jpeg
+!! Not found findItem 
+ i= 33  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\264414160_196519-s.jpeg
+!! Not found findItem 
+ i= 34  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200123900195_72930-s.jpeg
+!! Not found findItem 
+====================

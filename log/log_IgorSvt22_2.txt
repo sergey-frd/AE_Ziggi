@@ -1,0 +1,36 @@
+====================
+IgorSvt22_2 Date: Sat Jun 25 2022 16:25:10 GMT+0300
+ getRandomInt: 5
+ getRandomInt: 4
+ getRandomInt: 9
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Ziggi\\xml\\ae_Zig_22_3_comp_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Ziggi\\xml\\ae_Zig_22_3_comp_1.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200141100170_31952-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200109200133_181065-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200123400102_176696-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200115800049_167665-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Ziggi/Ziggi_1/2022_spr/200140800601_31857-s.jpeg</pathurl>
+</Stuff>
+filePathUrl.length= 5
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200141100170_31952-s.jpeg
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200109200133_181065-s.jpeg
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200123400102_176696-s.jpeg
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200115800049_167665-s.jpeg
+!! Not found findItem 
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_spr\\200140800601_31857-s.jpeg
+!! Not found findItem 
+====================
