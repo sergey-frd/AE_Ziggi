@@ -1,11 +1,11 @@
 ====================
-diplom_1 Date: Fri Jul 01 2022 14:25:07 GMT+0300
+diplom_1 Date: Sun Aug 21 2022 11:12:00 GMT+0300
  getRandomInt: 9
+ getRandomInt: 10
  getRandomInt: 7
- getRandomInt: 7
- Math.round(Math.random()): 0
  Math.round(Math.random()): 1
- Math.round(Math.random()): 0
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
  genXml: <Stuff>
   <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Ziggi\\xml\\ae_Zig_22_3_diplom_1.xml</pathRrXml>
 </Stuff>
@@ -52,66 +52,98 @@ filePathUrl.length= 32
 !! Not found findItem 
  i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\IMG-20180104-WA0006-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\46177297_2133822273349181_7611669010521784320_n-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\43163646_2078144855583590_4336168015327395840_n-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\28167422_1782992738432138_6112591690063151457_n-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\18556069_10209332387045971_105763932068098175_n-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\IMG-20180114-WA0005-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\IMG-20180114-WA0003-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\18880136_1365379376880134_1489941745077910578_o-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\18581471_1349800231771382_1000113943008921022_n-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\53429912_991278011081244_3417542676138950656_n-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\17966543_1939816929621777_4838787094889741362_o-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\17917518_1939816056288531_1441538745382164097_o-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\18813308_1622187851148297_3803718143238615834_n-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\18813515_1622187981148284_4366288798260181361_n-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\14470527_1777361502533988_8780736313879958117_n-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\14434813_1779477218989083_1017865711571010162_o-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\14409846_1779477188989086_639682638473853041_o-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\14409448_1779477338989071_5582199767058391136_o-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\14355771_1304584669584214_4065675965889610975_n-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\14355605_1780665555536916_4499039700830435294_n-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\IMG-20180916-WA0003%20(1)-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\43143267_2078143088917100_7136503816354004992_o-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\4316b329-11da-498d-8d2a-0cfa5a22fb64-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\5f3df3a6-1eca-41c0-b59a-aea4881dfbc8-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\6a78e70b-85b1-4159-92d8-677a72f5cbe5-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 26  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\27bff205-04ca-40c6-aa74-ab0d0e96f10d-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 27  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\1e38ce6d-1e0d-4835-8a73-e8696482e516-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 28  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\d46bc95a-502b-44a7-9a5c-8f42d25613a0-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 29  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\5587b7d9-7613-4201-a024-36b16be75c34-s.jpeg
 !! Not found findItem 
+!! Not found findItem 
  i= 30  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\a9cb3505-66d1-4485-ba3e-3028d840d2a5-s.jpeg
+!! Not found findItem 
 !! Not found findItem 
  i= 31  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\IMG-20220626-WA0000-s.jpg
 !! Not found findItem 
+!! Not found findItem 
  i= 32  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Ziggi\\Ziggi_1\\2022_VUZ\\spr\\IMG-20220626-WA0001-s.jpg
+!! Not found findItem 
 !! Not found findItem 
 ====================
